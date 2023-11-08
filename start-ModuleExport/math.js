@@ -18,7 +18,7 @@ function sub(a,b){
 // }
 
 module.exports = {add, sub}
-// } // also we can destrcture {add, sub}
+// } // also we can destrcture in importing file {add, sub}
 
 
 //we can also use multiple exports using exports object
