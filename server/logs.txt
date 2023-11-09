@@ -28,3 +28,5 @@
 1699528020454 ": Request recieved from url " /favicon.ico
 1699528051436 ": Request recieved from url " /search?search_query=Tutorials+for_tic+tac+toe
 1699528051702 ": Request recieved from url " /favicon.ico
+1699529700249 ": Request recieved from url " /signup
+1699529700632 ": Request recieved from url " /favicon.ico

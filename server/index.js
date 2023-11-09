@@ -36,6 +36,10 @@ const myServer = http.createServer((req, res)=>{
             res.end(`Here are your search results for ${search}`)
             break;
 
+            case("/signup"):
+            req.method=='GET' ? res.end("A get method request for Signup") : res.end("other Methods");
+            break;
+
             default:
                 res.end("404 Not Found");
 
